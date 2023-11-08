@@ -1,0 +1,45 @@
+Ładowanie macierzy z pliku
+[[ 2. 17.  4.]
+ [ 9.  5. 13.]
+ [ 8.  7. 13.]]
+Ładowanie sum [P, K, N] z pliku (dzielnik)
+[23. 27. 28.]
+Liczba pkt : 3
+Runda: 1
+P
+Komputer: P | Gracz: P
+Remis
+Punkty: 0
+
+
+Runda: 2
+K
+Komputer: K | Gracz: K
+Remis
+Punkty: 0
+
+
+Runda: 3
+N
+Komputer: K | Gracz: N
+Komputer wygrał
+Punkty: -1
+
+
+Runda: 4
+P
+Komputer: N | Gracz: P
+Komputer wygrał
+Punkty: -2
+
+
+Runda: 5
+K
+Komputer: P | Gracz: K
+Komputer wygrał
+Punkty: -3
+
+
+[[ 3. 19.  4.]
+ [ 9.  5. 14.]
+ [ 9.  7. 13.]]
